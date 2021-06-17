@@ -1,0 +1,16 @@
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.exe
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.deps.json
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.runtimeconfig.json
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.runtimeconfig.dev.json
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.dll
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\ref\cad_series.dll
+C:\Project\bootcamp-dotnet\cad_series\bin\Debug\net5.0\cad_series.pdb
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.csproj.AssemblyReference.cache
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.AssemblyInfoInputs.cache
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.AssemblyInfo.cs
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.csproj.CoreCompileInputs.cache
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.dll
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\ref\cad_series.dll
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.pdb
+C:\Project\bootcamp-dotnet\cad_series\obj\Debug\net5.0\cad_series.genruntimeconfig.cache
